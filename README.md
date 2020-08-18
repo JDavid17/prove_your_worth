@@ -1,3 +1,1 @@
-#### README
-
-(Prove Your Worth, Back-end Python Developer Challenge)[https://www.proveyourworth.net/level3/]
+Prove Your Worth, Back-end Python Developer Challenge [https://www.proveyourworth.net/level3/]
